@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b838fa15454f644ab17785d926bccfd, type: 3}
+  m_Name: Grocery
+  m_EditorClassIdentifier: 
+  ItemName: grocery
+  ItemDescription: 
+  BasePrice: 10000
+  multiplier: 4
+  SellPrice: 5000
+  unlocked: 0
+  UnlockLevel: 4
+  Level: 0
+  XP: 7
+  ToAdd: 35
+  WaterUsage: 5
+  EnergyUsage: 5
+  categorie: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b838fa15454f644ab17785d926bccfd, type: 3}
+  m_Name: Barrage
+  m_EditorClassIdentifier: 
+  ItemName: barrage
+  ItemDescription: 
+  BasePrice: 5000
+  multiplier: 1.2
+  SellPrice: 2500
+  unlocked: 0
+  UnlockLevel: 5
+  Level: 0
+  XP: 7
+  ToAdd: 10
+  WaterUsage: 5
+  EnergyUsage: 0
+  categorie: 2

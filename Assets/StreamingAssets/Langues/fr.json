@@ -1,0 +1,69 @@
+{
+    "production": "Production",
+    "consumption": "Consommation",
+    
+
+    "inhabitant": "Habitant",
+    "hut": "Cabane",
+    "house": "Maison",
+    "school": "Ecole",
+    "market": "Marché",
+    "grocery": "Epicerie",
+    "supermarket": "Super marché",
+    "startup" : "Start up",
+    "building": "Immeuble",
+    "company": "Entreprise",
+
+    "rainRecuperator": "Récupérateur de pluie",
+    "smallPump": "Petite pompe",
+    "largePump": "Grosse pompe",
+    "waterTower": "Château d'eau",
+    "wastewaterTreatment": "Traitement des eaux usées",
+
+    "coalFactory": "Usine à charbon",
+    "windTurbine": "Eolienne",
+    "solarPanel": "Panneau solaire",
+    "barrage":  "Barrage",
+    "nuclearPlant": "Centrale nucléaire",
+
+    
+    "Dinhabitant": "Habitant",
+    "Dhut": "Cabane",
+    "Dhouse": "Maison",
+    "Dschool": "Ecole",
+    "Dmarket": "Marché",
+    "Dgrocery": "Epicerie",
+    "Dsupermarket": "Super marché",
+    "Dstartup" : "Start up",
+    "Dbuilding": "Bâtiment",
+
+    "DrainRecuperator": "Récupérateur de pluie",
+    "DsmallPump": "Petite pompe",
+    "DlargePump": "Grosse pompe",
+    "DwaterTower": "Château d'eau",
+    "DwastewaterTreatment": "Traitement des eaux usées",
+
+    "DcoalFactory": "Usine à charbon",
+    "DwindTurbine": "Eolienne",
+    "DsolarPanel": "Panneau solaire",
+    "Dbarrage":  "Barrage",
+    "DnuclearPlant": "Centrale nucléaire",
+
+    "Unlock": "Accessible au niveau",
+
+    "City": "Ville",
+    "Water" : "Eau",
+    "Energy" : "Energie",
+    "Bonus": "Bonus",
+
+    "Music": "Musique",
+    "Sounds": "Sons",
+    "version": "Version",
+
+    "Title":"Titre",
+    "Description": "Description",
+
+    "Sure": "Confirmer ?",
+    "Confirm": "Confirmer",
+    "Cancel": "Annuler"
+}
